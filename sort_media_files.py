@@ -335,7 +335,7 @@ def _parse_options(args: list) -> tuple:
 
     parser = ArgumentParser(
         description=
-        'Sort image files link Nexcloud Andriod client does on a smartphone.')
+        'Sort image files like Nexcloud Android client does on a smartphone.')
 
     parser.add_argument('--source-files',
                         dest='source_files',
